@@ -33,18 +33,18 @@ This is the **backend** of a full-stack Todo app using **Node.js**, **Express**,
 ## 🛠️ Running Locally
 
 **1. Clone the repo:**
-   git clone https://github.com/your-username/todo-backend.git
+   git clone https://github.com/sanjaynishnath/todo-backend.git
    cd todo-backend
 **2.Install dependencies:**
    npm install
 **3.Create .env:**
 PORT=5000
 MONGODB_URI=mongodb+srv://<your-uri>
-CLIENT_URL=http://localhost:5173
+CLIENT_URL=http://localhost:5173 #your frontend host
 JWT_SECRET=your_jwt_secret
 GOOGLE_CLIENT_ID=your_client_id
 GOOGLE_CLIENT_SECRET=your_client_secret
-GOOGLE_CALLBACK_URL=http://localhost:5000/auth/google/callback
+GOOGLE_CALLBACK_URL=http://localhost:5000/auth/google/callback 
 
 **4.Start the server:**
   npm run dev
