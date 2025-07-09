@@ -6,6 +6,7 @@ This is the **backend** of a full-stack Todo app using **Node.js**, **Express**,
 
 🔗 **Frontend Repo**: https://github.com/sanjaynishnath/todo-frontend  
 🔗 **Backend Deployment**: https://todo-backend-e14k.onrender.com
+🔗 **Loom Video & Architecture**:[ https://todo-backend-e14k.onrender.com](https://drive.google.com/drive/folders/15VtBaiK3msXrZYsDYXu96OOTQ4z9wBTN?usp=sharing)
 
 ---
 
